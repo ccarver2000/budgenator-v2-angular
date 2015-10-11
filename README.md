@@ -1,6 +1,8 @@
 ## Budgenator v2 - Budget Calculator
 ### An Angular JS code demo
 
+Try Online: http://samuel-mccallum.github.io/budgenator-v2-angular/
+
 This is a code demo project that expands on a previous budget calculator demo.
 It is still a work in progress at this point but it is mostly functional and
 easy to use.
